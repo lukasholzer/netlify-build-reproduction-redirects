@@ -1,0 +1,7 @@
+{
+  "name": "test-redirects-move",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "node ./build.mjs"
+  }
+}

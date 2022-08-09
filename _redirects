@@ -1,0 +1,5 @@
+# Place all redirects in this file
+# https://docs.netlify.com/routing/redirects/
+
+/en-us/* /en-us/index.html 200
+/de-de/* /de-de/index.html 200
